@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "mysql": "^2.18.1"
+  },
+  "dependencies": {
+    "cypress": "^12.10.0"
+  }
+}
